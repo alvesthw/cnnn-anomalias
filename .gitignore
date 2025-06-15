@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+.venv/
+
+# Dados grandes
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+*.rar
+/data/
+dataset/
+*.tfrecord
+*.csv
+data/
+
+# Outros
+.DS_Store
+Thumbs.db
